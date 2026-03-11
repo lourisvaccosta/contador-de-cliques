@@ -29,4 +29,4 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado. Em seguida, sig
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone (https://github.com/lourisvaccosta/contador-de-cliques.git)
